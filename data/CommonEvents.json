@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["Falar com Plantas","Coletar ervas","Sair"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Falar com Plantas"]},{"code":122,"indent":1,"parameters":[2,2,0,2,1,20]},{"code":111,"indent":1,"parameters":[1,2,0,10,1]},{"code":101,"indent":2,"parameters":["",0,0,2,"Natureza"]},{"code":401,"indent":2,"parameters":["Info"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Coletar ervas"]},{"code":122,"indent":1,"parameters":[2,2,0,2,1,20]},{"code":111,"indent":1,"parameters":[1,2,0,10,1]},{"code":126,"indent":2,"parameters":[7,0,0,1]},{"code":101,"indent":2,"parameters":["",0,0,2,""]},{"code":401,"indent":2,"parameters":["Você encontrou ervas medicinais!"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Sair"]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":115,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Druidismo","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":122,"indent":0,"parameters":[2,2,0,2,1,20]},{"code":0,"indent":0,"parameters":[]}],"name":"teste","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
