@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Cruzamento","order":1,"parentId":0,"scrollX":534,"scrollY":297},
-{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":1,"scrollX":377,"scrollY":327.5},
-{"id":3,"expanded":false,"name":"Sala do Elbereth","order":4,"parentId":2,"scrollX":369,"scrollY":252.5},
-{"id":4,"expanded":false,"name":"Lost Forest","order":5,"parentId":0,"scrollX":707,"scrollY":597},
-{"id":5,"expanded":false,"name":"Cruzamento Loop","order":2,"parentId":1,"scrollX":369,"scrollY":252.5}
+{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":1,"scrollX":542,"scrollY":328.5},
+{"id":3,"expanded":false,"name":"Sala do Elbereth","order":4,"parentId":2,"scrollX":532,"scrollY":291.5},
+{"id":4,"expanded":false,"name":"Floresta Sussurrante","order":5,"parentId":0,"scrollX":532,"scrollY":1728.5},
+{"id":5,"expanded":false,"name":"Cruzamento Loop","order":2,"parentId":1,"scrollX":534,"scrollY":297}
 ]
