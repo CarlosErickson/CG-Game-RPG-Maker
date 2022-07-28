@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Rio","order":3,"parentId":3,"scrollX":1508,"scrollY":1252},
+{"id":1,"expanded":false,"name":"Rio","order":3,"parentId":3,"scrollX":1518.6666666666667,"scrollY":1305.3333333333333},
 {"id":2,"expanded":true,"name":"Taverna","order":2,"parentId":3,"scrollX":435.55555555555554,"scrollY":398.6666666666667},
 {"id":3,"expanded":true,"name":"Cruzamento Comercial","order":1,"parentId":0,"scrollX":1508,"scrollY":614.6666666666666}
 ]
