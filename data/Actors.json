@@ -1,5 +1,9 @@
 [
 null,
 {"id":1,"battlerName":"Nefith_actor","characterIndex":0,"characterName":"protagonistas","classId":2,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"protagonistas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nefith","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"fae_battle","characterIndex":1,"characterName":"protagonistas","classId":1,"equips":[1,0,0,9,0],"faceIndex":1,"faceName":"protagonistas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fae","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"fae_battle","characterIndex":1,"characterName":"protagonistas","classId":1,"equips":[1,0,0,9,0],"faceIndex":1,"faceName":"protagonistas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fae","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Impéria","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Feanor","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aurora","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Floyd","nickname":"","note":"","profile":""}
 ]
