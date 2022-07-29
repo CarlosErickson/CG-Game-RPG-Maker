@@ -2,7 +2,9 @@
 null,
 {"id":1,"expanded":true,"name":"Cruzamento","order":1,"parentId":0,"scrollX":534,"scrollY":297},
 {"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":1,"scrollX":542,"scrollY":328.5},
-{"id":3,"expanded":false,"name":"Sala do Elbereth","order":4,"parentId":2,"scrollX":532,"scrollY":291.5},
-{"id":4,"expanded":false,"name":"Floresta Sussurrante","order":5,"parentId":0,"scrollX":532,"scrollY":1728.5},
-{"id":5,"expanded":false,"name":"Cruzamento Loop","order":2,"parentId":1,"scrollX":534,"scrollY":297}
+{"id":3,"expanded":false,"name":"Sala do Elbereth","order":4,"parentId":2,"scrollX":1508,"scrollY":614.6666666666666},
+{"id":4,"expanded":false,"name":"Floresta Sussurrante","order":7,"parentId":0,"scrollX":1518.6666666666667,"scrollY":1145.3333333333333},
+{"id":5,"expanded":false,"name":"Cruzamento Loop","order":2,"parentId":1,"scrollX":534,"scrollY":297},
+{"id":6,"expanded":true,"name":"Corredor","order":5,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"Corredor Final","order":6,"parentId":2,"scrollX":0,"scrollY":0}
 ]
